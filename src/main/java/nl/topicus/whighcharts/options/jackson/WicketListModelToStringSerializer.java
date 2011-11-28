@@ -34,9 +34,6 @@ public class WicketListModelToStringSerializer extends SerializerBase<IModel>
 				if (item != null)
 				{
 					jgen.writeString(values.get(i).toString());
-
-					if (i + 1 < values.size())
-						jgen.writeString(", ");
 				}
 			}
 		}
