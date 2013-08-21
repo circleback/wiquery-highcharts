@@ -17,8 +17,8 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<wicket.version>1.5.3</wicket.version>
-		<wiquery.version>1.5.3</wiquery.version>
+		<wicket.version>1.5.8</wicket.version>
+		<wiquery.version>1.5.8</wiquery.version>
 		<jackson.version>[1.8,1.8.10]</jackson.version>
 		<slf4j.version>[1.6,1.6.10]</slf4j.version>
 		<rhino.version>1.7R2</rhino.version>
